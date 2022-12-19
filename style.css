@@ -123,6 +123,11 @@ nav .nav-container .nav_right-sec .cart-container .cart-wrap .empty {
 nav .nav-container .nav_right-sec .cart-container .cart-wrap .cart-content {
   height: 12.5rem;
 }
+nav .nav-container .nav_right-sec .cart-container .cart-wrap .cart-content .product div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
 nav .nav-container .nav_right-sec .avatar {
   cursor: pointer;
   width: 3.125rem;
